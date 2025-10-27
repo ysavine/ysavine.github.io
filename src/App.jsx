@@ -2,7 +2,7 @@ import { Navigation } from './components/Navigation.jsx'
 import { Hero } from './components/Hero.jsx'
 import { About } from './components/About.jsx'
 import { Experience } from './components/Experience.jsx'
-import { Portfolio } from './components/Portfolio.jsx'
+import { Projects } from './components/Projects.jsx'
 import { Recommendations } from './components/Recommendations.jsx'
 import { Interests } from './components/Interests.jsx'
 
@@ -28,11 +28,11 @@ export default function App() {
           </div>
         </section>
 
-        {/* <section id="portfolio" className="section">
+        <section id="Projects" className="section">
           <div className="section__container">
-            <Portfolio />
+            <Projects />
           </div>
-        </section> */}
+        </section>
 
         {/* <section id="recommendations" className="section">
           <div className="section__container">
