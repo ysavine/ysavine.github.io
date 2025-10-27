@@ -434,11 +434,7 @@ a {
   .section {
     padding: clamp(3rem, 12vw, 5rem) clamp(1rem, 6vw, 2rem);
   }
-
-  .hero__cta {
-    flex-direction: column;
-  }
-
+  
   .list__item {
     flex-direction: column;
     align-items: flex-start;
