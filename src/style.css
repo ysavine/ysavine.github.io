@@ -121,6 +121,13 @@ a {
   text-align: center;
 }
 
+.hero__icon {
+  width: clamp(10rem, 12vw, 6rem);
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
+
 .hero__eyebrow {
   margin: 0;
   text-transform: uppercase;
