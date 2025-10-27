@@ -46,6 +46,12 @@ export default function App() {
           </div>
         </section> */}
       </main>
+
+      <footer className="footer">
+        <p className="footer__credit">
+          Made with ♡ by Yulia.
+        </p>
+      </footer>
     </div>
   )
 }

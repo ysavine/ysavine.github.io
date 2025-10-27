@@ -47,6 +47,21 @@ a {
   padding-top: clamp(6rem, 12vw, 9rem);
 }
 
+.footer {
+  padding: 2rem clamp(1.5rem, 5vw, 4rem);
+  text-align: center;
+  border-top: 1px solid color-mix(in srgb, var(--border) 70%, transparent);
+  background-color: color-mix(in srgb, var(--background) 92%, transparent);
+}
+
+.footer__credit {
+  margin: 0;
+  font-size: clamp(0.8rem, 2vw, 0.95rem);
+  opacity: 0.7;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
 .section__container {
   width: min(100%, 64rem);
   margin: 0 auto;
