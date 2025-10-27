@@ -41,7 +41,7 @@ const involvement = [
     role: 'Duke Chapter Fellowship Co-Director & Product Manager',
     period: 'August 2024 - Present',
     description:
-      'Developed search and text generation features, streamlining the process for 8000+ researchers and faculty to find collaborators, discover funding opportunities, and generate a profile on Scholars at Duke.',
+      'Created and implemented curriculum for educational and community-building fellowship with industry professionals and students, expanding access to opportunities in product design, development, and management at Duke.',
     tags: ['Product Management', 'Figma'],
   },
   {

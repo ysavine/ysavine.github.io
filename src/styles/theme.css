@@ -1,5 +1,6 @@
 :root {
-  --font-size: 16px;
+  --font-size: 12px;
+  --layout-padding: 1.5rem;
   --background: #f5f1e8;
   --foreground: #2c1810;
   --card: #fdfcfa;
