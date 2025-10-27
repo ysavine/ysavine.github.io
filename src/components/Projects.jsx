@@ -24,7 +24,7 @@ const ProjectsItems = [
   },
   {
     title: 'CDN Edge Server',
-    description: 'cs.duke.edu edge server with caching, persistence, and both HTTP/HTTPS support.',
+    description: 'cs.duke.edu edge server with caching, persistence, and HTTP/HTTPS support.',
     link: '',
     tags: ['Networking'],
     image: null,
@@ -59,11 +59,11 @@ export function Projects() {
                 </h3>
                 <p className="project__description">{item.description}</p>
               </header>
-              {/* <div className="project__tags">
+              <div className="project__tags">
                 {item.tags.map((tag) => (
                   <Badge key={tag}>{tag}</Badge>
                 ))}
-              </div> */}
+              </div>
             </div>
             <div className="project__media" aria-hidden={!item.image}>
               {item.image ? (
