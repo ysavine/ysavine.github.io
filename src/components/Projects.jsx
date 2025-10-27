@@ -16,7 +16,7 @@ const ProjectsItems = [
     image: null,
   },
   {
-    title: 'Zamazon',
+    title: 'Online Plant Store',
     description: 'E-commerce plant store with a cozy Stardew Valley-inspired design.',
     link: '',
     tags: ['Databases', 'Full Stack Development'],
