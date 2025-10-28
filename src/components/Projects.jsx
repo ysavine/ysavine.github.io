@@ -6,36 +6,36 @@ const ProjectsItems = [
     description: 'AI-powered tool designed to help users read websites and extract text from PDFs with ease.',
     link: 'https://ai.colab.duke.edu/colab-ai-blog/',
     tags: ['AI', 'Full Stack', 'Accessibility'],
-    image: null,
+    image: "/binary.png",
   },
   {
     title: 'YuYak',
     description: 'Language learning app focused on pronunciation.',
     link: '#',
     tags: ['Product Design', 'Speech Recognition'],
-    image: null,
+    image: "/binary.png",
   },
   {
     title: 'Online Plant Store',
     description: 'E-commerce plant store with a cozy Stardew Valley-inspired design.',
     link: '',
     tags: ['Databases', 'Full Stack Development'],
-    image: null,
+    image: "/whimsy_plant_store.png",
   },
   {
     title: 'CDN Edge Server',
     description: 'cs.duke.edu edge server with caching, persistence, and HTTP/HTTPS support.',
     link: '',
     tags: ['Networking'],
-    image: null,
+    image: "/binary.png",
   },
-  {
-    title: 'Scholars@Duke Collaboration Finder',
-    description: 'Connecting Duke University researchers.',
-    link: 'https://codeplus.duke.edu/project/scholarsduke-collaboration-finder-using-power-ai/',
-    tags: ['Product Design', 'Speech Recognition'],
-    image: null,
-  },
+  // {
+  //   title: 'Scholars@Duke Collaboration Finder',
+  //   description: 'Connecting Duke University researchers.',
+  //   link: 'https://codeplus.duke.edu/project/scholarsduke-collaboration-finder-using-power-ai/',
+  //   tags: ['Product Design', 'Retrieval Augmented Generation'],
+  //   image: "/scholars_duke.png",
+  // },
 ]
 
 export function Projects() {
@@ -65,7 +65,7 @@ export function Projects() {
                 ))}
               </div>
             </div>
-            <div className="project__media" aria-hidden={!item.image}>
+            {/* <div className="project__media" aria-hidden={!item.image}>
               {item.image ? (
                 <img className="project__image" src={item.image} alt={`${item.title} preview`} />
               ) : (
@@ -73,7 +73,7 @@ export function Projects() {
                   <span>{item.title}</span>
                 </div>
               )}
-            </div>
+            </div> */}
           </article>
         ))}
       </div>

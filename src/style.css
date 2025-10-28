@@ -360,7 +360,7 @@ a {
 .project__media {
   flex: 0 0 clamp(9rem, 26vw, 14rem);
   position: relative;
-  border-radius: calc(var(--radius) + 8px);
+  border-radius: calc(var(--radius) + 0px);
   overflow: hidden;
   background: linear-gradient(135deg, color-mix(in srgb, var(--primary) 20%, transparent), color-mix(in srgb, var(--primary) 5%, transparent));
   border: 1px solid color-mix(in srgb, var(--border) 60%, transparent);
