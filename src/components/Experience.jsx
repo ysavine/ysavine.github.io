@@ -12,7 +12,7 @@ const experiences = [
   {
     company: 'Duke University Innovation Co-Lab',
     role: 'Student Software Developer',
-    period: 'August 2024 - present',
+    period: 'August 2024 - Present',
     description:
       'Build full-stack applications and educational tools for 17,000+ Duke community members and Innovation Co-Lab clients.',
     tags: ['Full Stack Development', 'Azure Cognitive Speech Services'],
