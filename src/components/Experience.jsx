@@ -6,7 +6,7 @@ const experiences = [
     role: 'Software Engineer Intern',
     period: 'May 2025 - August 2025',
     description:
-      'Engineered and launched an internal diagnostic tool providing full stack profiling for Google Drive that enables Drive teams to visualize 99%+ of Drive requests retroactively.',
+      'Engineered and launched an internal full stack profiling tool for Google Drive.',
     tags: ['Distributed Systems', 'Profiling', 'Java'],
   },
   {
