@@ -16,7 +16,7 @@ const ProjectsItems = [
     image: "/binary.png",
   },
   {
-    title: 'Online Plant Store',
+    title: 'Whimsical Plant Store',
     description: 'E-commerce plant store with a cozy Stardew Valley-inspired design.',
     link: '',
     tags: ['Databases', 'Full Stack Development'],
