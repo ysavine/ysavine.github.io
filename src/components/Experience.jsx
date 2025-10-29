@@ -7,7 +7,7 @@ const experiences = [
     period: 'May 2025 - August 2025',
     description:
       'Engineered and launched a full stack profiling tool for Google Drive.',
-    tags: ['Distributed Systems', 'Request Profiling', 'Java', 'pprof'],
+    tags: ['Distributed Systems', 'Request Profiling'],
   },
   {
     company: 'Duke University Innovation Co-Lab',
@@ -15,7 +15,7 @@ const experiences = [
     period: 'August 2024 - Present',
     description:
       'Build full-stack applications and educational tools for 17,000+ Duke community members and Innovation Co-Lab clients.',
-    tags: ['Full Stack Development', 'Azure Cognitive Speech Services', 'Python', 'FastAPI', 'Docker', 'Svelte', 'Javascript', 'React.js', 'HTML/CSS', 'MongoDB'],
+    tags: ['Full Stack Development', 'Azure Cognitive Speech Services'],
   },
   {
     company: 'Duke University Computer Science Department',
@@ -31,7 +31,7 @@ const experiences = [
     period: 'May 2024 - July 2024',
     description:
       'Developed search and text generation features, streamlining the process for 8000+ researchers and faculty to find collaborators, discover funding opportunities, and generate a profile on Scholars at Duke.',
-    tags: ['Full Stack Development', 'Natural Language Processing', 'ChromaDB', 'LangChain', 'HTML/CSS'],
+    tags: ['Full Stack Development', 'Natural Language Processing'],
   },
 ]
 
