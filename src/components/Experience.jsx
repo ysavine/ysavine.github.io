@@ -7,7 +7,7 @@ const experiences = [
     period: 'May 2025 - August 2025',
     description:
       'Engineered and launched a full stack profiling tool for Google Drive.',
-    tags: ['Distributed Systems', 'Request Profiling'],
+    tags: ['Backend Development', 'Distributed Systems', 'Request Profiling'],
   },
   {
     company: 'Duke University Innovation Co-Lab',

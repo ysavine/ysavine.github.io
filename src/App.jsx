@@ -1,3 +1,4 @@
+import { useEffect } from 'react'
 import { Navigation } from './components/Navigation.jsx'
 import { Hero } from './components/Hero.jsx'
 import { About } from './components/About.jsx'
@@ -7,6 +8,12 @@ import { Recommendations } from './components/Recommendations.jsx'
 import { Interests } from './components/Interests.jsx'
 
 export default function App() {
+  useEffect(() => {
+    if (typeof window !== 'undefined' && window.location.hash === '') {
+      window.location.replace('#home')
+    }
+  }, [])
+
   return (
     <div className="min-h-screen bg-background font-serif">
       <Navigation />
