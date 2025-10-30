@@ -6,5 +6,5 @@ export function Badge({ children, variant = 'solid' }) {
 
 Badge.propTypes = {
   children: PropTypes.node.isRequired,
-  variant: PropTypes.oneOf(['solid', 'outline']),
+  variant: PropTypes.oneOf(['solid', 'outline', 'skill']),
 }
