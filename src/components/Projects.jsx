@@ -13,7 +13,7 @@ const ProjectsItems = [
     title: 'YuYak',
     description: 'Language learning app focused on pronunciation.',
     link: 'https://ai.colab.duke.edu/colab-ai-blog/all-blogs/meet-yuyak-your-new-language-learning-buddy/',
-    tags: ['Azure Cognitive Speech Services', 'Full Stack Development'],
+    tags: ['Product Design', 'Full Stack Development'],
     skills: ['Azure Cognitive Speech Services', 'FastAPI', 'React', 'JavaScript', 'HTML', 'CSS', 'phonemizer'],
     image: "/binary.png",
   },
