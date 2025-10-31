@@ -7,23 +7,23 @@ const ProjectsItems = [
     link: 'https://ai.colab.duke.edu/colab-ai-blog/',
     tags: ['AI', 'Full Stack Development'],
     skills: ['Svelte', 'Python', 'FastAPI', 'crawl4ai', 'Docker',],
-    image: "/binary.png",
+    // image: "/binary.png",
   },
   {
     title: 'YuYak',
     description: 'Language learning app focused on pronunciation.',
     link: 'https://ai.colab.duke.edu/colab-ai-blog/all-blogs/meet-yuyak-your-new-language-learning-buddy/',
     tags: ['Product Design', 'Full Stack Development'],
-    skills: ['Azure Cognitive Speech Services', 'FastAPI', 'React', 'JavaScript', 'HTML', 'CSS', 'phonemizer'],
-    image: "/binary.png",
+    skills: ['Azure Cognitive Speech Services', 'FastAPI', 'MongoDB', 'React.js', 'JavaScript', 'HTML', 'CSS', 'phonemizer'],
+    // image: "/binary.png",
   },
   {
     title: 'Whimsical Plant Store',
     description: 'E-commerce plant store with a cozy Stardew Valley-inspired design.',
     link: 'https://github.com/ysavine/whimsy-plant-store',
     tags: ['Databases', 'Full Stack Development'],
-    skills: ['SQL', 'React', 'Flask', 'JavaScript', 'HTML', 'CSS'],
-    image: "/whimsy_plant_store.png",
+    skills: ['SQL', 'React.js', 'Flask', 'JavaScript', 'HTML', 'CSS', 'Docker'],
+    // image: "/whimsy_plant_store.png",
   },
   {
     title: 'CDN Edge Server',
@@ -31,15 +31,16 @@ const ProjectsItems = [
     link: null,
     tags: ['Networking'],
     skills: ['Python', 'Sockets', 'TLS/SSL'],
-    image: "/binary.png",
+    // image: "/binary.png",
   },
-  // {
-  //   title: 'Scholars@Duke Collaboration Finder',
-  //   description: 'Connecting Duke University researchers.',
-  //   link: 'https://codeplus.duke.edu/project/scholarsduke-collaboration-finder-using-power-ai/',
-  //   tags: ['Product Design', 'Retrieval Augmented Generation'],
-  //   image: "/scholars_duke.png",
-  // },
+  {
+    title: 'Scholars@Duke Collaboration Finder',
+    description: 'Connecting Duke University researchers.',
+    link: 'https://codeplus.duke.edu/project/scholarsduke-collaboration-finder-using-power-ai/',
+    tags: ['Product Design', 'Retrieval Augmented Generation'],
+    skills: ['Python', 'ChromaDB', 'LangChain', 'CSS', 'HTML', 'JavaScript', 'Jinja'],
+    // image: "/scholars_duke.png",
+  },
 ]
 
 export function Projects() {
