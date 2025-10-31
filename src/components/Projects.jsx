@@ -37,7 +37,7 @@ const ProjectsItems = [
     title: 'Scholars@Duke Collaboration Finder',
     description: 'Connecting Duke University researchers.',
     link: 'https://codeplus.duke.edu/project/scholarsduke-collaboration-finder-using-power-ai/',
-    tags: ['Product Design', 'Retrieval Augmented Generation'],
+    tags: ['Full Stack Development', 'Retrieval Augmented Generation'],
     skills: ['Python', 'ChromaDB', 'LangChain', 'CSS', 'HTML', 'JavaScript', 'Jinja'],
     // image: "/scholars_duke.png",
   },
