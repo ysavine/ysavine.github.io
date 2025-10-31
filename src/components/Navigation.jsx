@@ -4,6 +4,7 @@ const navigationItems = [
   { id: 'home', label: 'Home' },
   // { id: 'about', label: 'About' },
   { id: 'experience', label: 'Experience' },
+  { id: 'education', label: 'Education' },
   { id: 'Projects', label: 'Projects' },
   // { id: 'recommendations', label: 'Recommendations' },
   // { id: 'interests', label: 'Interests' },

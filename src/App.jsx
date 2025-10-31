@@ -6,6 +6,7 @@ import { Experience } from './components/Experience.jsx'
 import { Projects } from './components/Projects.jsx'
 import { Recommendations } from './components/Recommendations.jsx'
 import { Interests } from './components/Interests.jsx'
+import { Education } from './components/Education.jsx'
 
 export default function App() {
   useEffect(() => {
@@ -32,6 +33,12 @@ export default function App() {
         <section id="experience" className="section">
           <div className="section__container">
             <Experience />
+          </div>
+        </section>
+
+        <section id="education" className="section">
+          <div className="section__container">
+            <Education />
           </div>
         </section>
 

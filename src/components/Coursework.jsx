@@ -1,0 +1,16 @@
+export const coursework = [
+  'CS 101: Intro to Computer Science',
+  'CS 201: Data Structure & Algorithms',
+  'MATH 212: Multivariable Calculus',
+  'MATH 221: Linear Algebra & Proofs',
+  'MATH 232: Discrete Math & Proofs',
+  'CS 330: Design & Analysis of Algorithms',
+  'CS 250: Computer Architecture',
+  'CS 290: Applied Machine Learning',
+  'CS 370: Artificial Intelligence',
+  'CS 356: Computer Network Architecture',
+  'CS 316: Database Systems',
+  'CS 512: Distributed Systems',
+  'CS 390: Language Processing',
+  'LIN 211: Computation & Language',
+]

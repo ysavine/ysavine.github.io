@@ -293,6 +293,30 @@ a {
   gap: 0.5rem;
 }
 
+.experience--education {
+  padding-left: 0;
+  border-left: none;
+}
+
+.experience--education header {
+  padding-left: 1.2rem;
+  border-left: 2px solid var(--primary);
+}
+
+.experience--education .experience__course-list {
+  margin-top: 0.5rem;
+  padding-left: 1.45rem;
+}
+
+.experience__course-list {
+  margin: 0;
+  padding-left: 1.25rem;
+  display: grid;
+  gap: 0.4rem;
+  list-style: disc;
+  opacity: 0.85;
+}
+
 .project {
   display: flex;
   flex-wrap: wrap;
