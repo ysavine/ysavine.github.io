@@ -42,7 +42,7 @@ export default function App() {
           </div>
         </section>
 
-        <section id="Projects" className="section">
+        <section id="projects" className="section">
           <div className="section__container">
             <Projects />
           </div>
