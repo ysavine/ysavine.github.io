@@ -14,5 +14,6 @@ export const coursework = [
   'CS 370: Artificial Intelligence',
   'CS 390: Language Processing',
   'LIN 211: Computation & Language',
+  'LIN 472: Linguistic Theory Approaches to LLMs',
   'CS 590: Moral Artificial Intelligence Research (graduate)',
 ]
