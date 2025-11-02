@@ -3,7 +3,7 @@ export const coursework = [
   'CS 201: Data Structure & Algorithms',
   'MATH 212: Multivariable Calculus',
   'MATH 221: Linear Algebra & Proofs',
-  'MATH 232: Discrete Math & Proofs',
+  'MATH 242: Discrete Math & Proofs',
   'MATH 230: Probability',
   'CS 330: Design & Analysis of Algorithms',
   'CS 250: Computer Architecture',
