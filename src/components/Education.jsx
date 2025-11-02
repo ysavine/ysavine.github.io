@@ -4,7 +4,7 @@ const education = [
   {
     institution: 'Duke University',
     degree: 'B.S. Computer Science, A.B. Linguistics',
-    period: 'August 2022 – May 2026 (expected)',
+    period: 'August 2022 – May 2026',
   },
 ]
 
